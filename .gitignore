@@ -1,0 +1,30 @@
+node_modules/
+.expo/
+dist/
+*.log
+.env
+.env.local
+.env.production
+.DS_Store
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+._*
+
+# Windows
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Expo
+.expo-shared/
